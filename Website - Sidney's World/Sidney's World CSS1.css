@@ -1,0 +1,26 @@
+* {
+    background-color: #BFD7D2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: thin;
+}
+
+textarea {
+    background-color: azure;
+    opacity: 0.5;
+}
+
+#songs {
+    height: 400px;
+}
+#songs img {
+    height: 325px;
+    width: 325px;
+    min-height: auto;
+    margin: 30px 100px 15px 60px;
+    box-shadow: -10px 10px 20px #444A49; 
+    opacity: 0.95;
+}
+
+#songs a {
+    display: inline-block;
+}
