@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjsalmon
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Javascript, HTML, and CSS
-- 💞️ I’m looking to collaborate on beginner/intermediate web developement projects
+- 💞️ I’m looking to collaborate on beginner/intermediate web development projects
 - 📫 How to reach me: sjsalmon@yahoo.com
 
 <!---
